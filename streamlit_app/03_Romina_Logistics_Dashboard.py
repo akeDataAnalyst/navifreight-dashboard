@@ -50,7 +50,7 @@ st.markdown("""
 # 3. Data Loading Engine
 @st.cache_data
 def load_data():
-    path = "../data/processed/Unified_Logistics_Final_2025.csv"
+    path = "Unified_Logistics_Final_2025.csv"
     if os.path.exists(path):
         df = pd.read_csv(path)
         df['Booking_Date'] = pd.to_datetime(df['Booking_Date'])
