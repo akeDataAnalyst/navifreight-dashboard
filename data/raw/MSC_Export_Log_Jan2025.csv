@@ -1,0 +1,59 @@
+Shipment_Ref,Carrier,Origin_Inland,Port_of_Loading,Destination,Grade,Declared_Weight_KG,Port_Scale_KG,Booking_Date,SI_Deadline
+ROM25-42852,MSC,Addis Ababa Kality,Djibouti,Hamburg (Germany),Yirgacheffe G2 Natural,19205.52,19205.52,2025-01-01,2025-01-06
+ROM25-89379,MSC,Modjo Hub,Djibouti,Antwerp (Belgium),Yirgacheffe G2 Natural,19199.79,19199.79,2025-01-04,2025-01-09
+ROM25-27313,MSC,Mojo Dry Port,Djibouti,Antwerp (Belgium),Sidama G1 Washed,19200.0,19200.0,2025-01-05,2025-01-10
+ROM25-45818,MSC,Addis Ababa Kality,Djibouti,Antwerp (Belgium),Sidama G1 Washed,19201.57,19201.57,2025-01-07,2025-01-12
+ROM25-28967,MSC,Addis Ababa Kality,Djibouti,Antwerp (Belgium),Guji G1 Specialty,19208.45,19358.528794518115,2025-01-10,2025-01-15
+ROM25-80222,MSC,Modjo Hub,Djibouti,Hamburg (Germany),Yirgacheffe G2 Natural,19213.64,19374.642710477936,2025-01-10,2025-01-15
+ROM25-37825,MSC,Mojo Dry Port,Djibouti,Trieste (Italy),Yirgacheffe G2 Natural,19195.93,19195.93,2025-01-12,2025-01-17
+ROM25-75644,MSC,Modjo Hub,Djibouti,Antwerp (Belgium),Limu G2,19196.05,19196.05,2025-01-16,2025-01-21
+ROM25-84341,MSC,Addis Ababa Kality,Djibouti,Jeddah (KSA),Limu G2,19195.41,19195.41,2025-01-18,2025-01-23
+ROM25-46671,MSC,Modjo Hub,Djibouti,Hamburg (Germany),Guji G1 Specialty,19210.48,19210.48,2025-01-19,2025-01-24
+ROM25-55376,MSC,Modjo Hub,Djibouti,Trieste (Italy),Sidama G1 Washed,19212.89,19212.89,2025-01-21,2025-01-26
+ROM25-84306,MSC,Mojo Dry Port,Djibouti,Hamburg (Germany),Guji G1 Specialty,19211.0,19211.0,2025-01-21,2025-01-26
+ROM25-54521,MSC,Mojo Dry Port,Djibouti,Jeddah (KSA),Guji G1 Specialty,19203.24,19203.24,2025-01-22,2025-01-27
+ROM25-73155,MSC,Mojo Dry Port,Djibouti,Antwerp (Belgium),Sidama G1 Washed,19199.13,19199.13,2025-01-26,2025-01-31
+ROM25-63968,MSC,Addis Ababa Kality,Djibouti,Jeddah (KSA),Yirgacheffe G2 Natural,19204.98,19204.98,2025-01-26,2025-01-31
+ROM25-30306,MSC,Addis Ababa Kality,Djibouti,Hamburg (Germany),Sidama G1 Washed,19209.99,19290.874399515447,2025-01-27,2025-02-01
+ROM25-31830,MSC,Addis Ababa Kality,Djibouti,Jeddah (KSA),Guji G1 Specialty,19195.59,19195.59,2025-01-29,2025-02-03
+ROM25-45274,MSC,Addis Ababa Kality,Djibouti,Antwerp (Belgium),Sidama G1 Washed,19199.55,19199.55,2025-01-30,2025-02-04
+ROM25-72822,MSC,Addis Ababa Kality,Djibouti,Trieste (Italy),Guji G1 Specialty,19197.02,19197.02,2025-02-01,2025-02-06
+ROM25-63178,MSC,Modjo Hub,Djibouti,Hamburg (Germany),Yirgacheffe G2 Natural,19196.69,19196.69,2025-02-02,2025-02-07
+ROM25-84270,MSC,Modjo Hub,Djibouti,Trieste (Italy),Sidama G1 Washed,19201.85,19250.406868058024,2025-02-05,2025-02-10
+ROM25-57752,MSC,Mojo Dry Port,Djibouti,Hamburg (Germany),Sidama G1 Washed,19199.91,19199.91,2025-02-06,2025-02-11
+ROM25-20094,MSC,Mojo Dry Port,Djibouti,Antwerp (Belgium),Yirgacheffe G2 Natural,19201.67,19201.67,2025-02-07,2025-02-12
+ROM25-68531,MSC,Mojo Dry Port,Djibouti,Trieste (Italy),Yirgacheffe G2 Natural,19195.09,19291.961031176383,2025-02-09,2025-02-14
+ROM25-65497,MSC,Mojo Dry Port,Djibouti,Jeddah (KSA),Yirgacheffe G2 Natural,19197.31,19197.31,2025-02-13,2025-02-18
+ROM25-77838,MSC,Mojo Dry Port,Djibouti,Antwerp (Belgium),Yirgacheffe G2 Natural,19208.34,19208.34,2025-02-14,2025-02-19
+ROM25-97459,MSC,Addis Ababa Kality,Djibouti,Jeddah (KSA),Limu G2,19206.33,19206.33,2025-02-15,2025-02-20
+ROM25-13447,MSC,Modjo Hub,Djibouti,Antwerp (Belgium),Yirgacheffe G2 Natural,19211.63,19211.63,2025-02-16,2025-02-21
+ROM25-72842,MSC,Addis Ababa Kality,Djibouti,Hamburg (Germany),Guji G1 Specialty,19197.38,19197.38,2025-02-16,2025-02-21
+ROM25-78580,MSC,Addis Ababa Kality,Djibouti,Antwerp (Belgium),Sidama G1 Washed,19208.52,19208.52,2025-02-17,2025-02-22
+ROM25-44416,MSC,Modjo Hub,Djibouti,Jeddah (KSA),Limu G2,19203.38,19203.38,2025-02-19,2025-02-24
+ROM25-32093,MSC,Addis Ababa Kality,Djibouti,Trieste (Italy),Limu G2,19207.07,19207.07,2025-02-23,2025-02-28
+ROM25-95657,MSC,Modjo Hub,Djibouti,Jeddah (KSA),Guji G1 Specialty,19213.91,19213.91,2025-02-24,2025-03-01
+ROM25-95092,MSC,Mojo Dry Port,Djibouti,Antwerp (Belgium),Limu G2,19214.67,19307.073993310176,2025-02-24,2025-03-01
+ROM25-12776,MSC,Addis Ababa Kality,Djibouti,Hamburg (Germany),Guji G1 Specialty,19205.6,19205.6,2025-02-27,2025-03-04
+ROM25-65210,MSC,Mojo Dry Port,Djibouti,Trieste (Italy),Yirgacheffe G2 Natural,19196.7,19196.7,2025-03-01,2025-03-06
+ROM25-41580,MSC,Addis Ababa Kality,Djibouti,Trieste (Italy),Limu G2,19196.34,19196.34,2025-03-02,2025-03-07
+ROM25-48742,MSC,Addis Ababa Kality,Djibouti,Trieste (Italy),Yirgacheffe G2 Natural,19208.76,19208.76,2025-03-04,2025-03-09
+ROM25-19483,MSC,Modjo Hub,Djibouti,Antwerp (Belgium),Yirgacheffe G2 Natural,19197.42,19295.27333691463,2025-03-05,2025-03-10
+ROM25-31056,MSC,Addis Ababa Kality,Djibouti,Trieste (Italy),Limu G2,19202.68,19202.68,2025-03-06,2025-03-11
+ROM25-25661,MSC,Addis Ababa Kality,Djibouti,Antwerp (Belgium),Sidama G1 Washed,19203.08,19203.08,2025-03-07,2025-03-12
+ROM25-97148,MSC,Mojo Dry Port,Djibouti,Hamburg (Germany),Yirgacheffe G2 Natural,19205.91,19316.747456227447,2025-03-07,2025-03-12
+ROM25-90452,MSC,Modjo Hub,Djibouti,Jeddah (KSA),Limu G2,19203.51,19203.51,2025-03-09,2025-03-14
+ROM25-59625,MSC,Addis Ababa Kality,Djibouti,Trieste (Italy),Sidama G1 Washed,19212.62,19212.62,2025-03-10,2025-03-15
+ROM25-65130,MSC,Modjo Hub,Djibouti,Jeddah (KSA),Sidama G1 Washed,19205.36,19205.36,2025-03-10,2025-03-15
+ROM25-63386,MSC,Mojo Dry Port,Djibouti,Hamburg (Germany),Sidama G1 Washed,19197.57,19197.57,2025-03-12,2025-03-17
+ROM25-85832,MSC,Addis Ababa Kality,Djibouti,Hamburg (Germany),Sidama G1 Washed,19202.56,19202.56,2025-03-14,2025-03-19
+ROM25-84732,MSC,Addis Ababa Kality,Djibouti,Jeddah (KSA),Sidama G1 Washed,19205.75,19205.75,2025-03-17,2025-03-22
+ROM25-84884,MSC,Mojo Dry Port,Djibouti,Hamburg (Germany),Guji G1 Specialty,19198.45,19198.45,2025-03-21,2025-03-26
+ROM25-68715,MSC,Addis Ababa Kality,Djibouti,Antwerp (Belgium),Guji G1 Specialty,19197.05,19197.05,2025-03-21,2025-03-26
+ROM25-86701,MSC,Mojo Dry Port,Djibouti,Hamburg (Germany),Guji G1 Specialty,19202.8,19202.8,2025-03-24,2025-03-29
+ROM25-16376,MSC,Modjo Hub,Djibouti,Trieste (Italy),Sidama G1 Washed,19213.98,19213.98,2025-03-26,2025-03-31
+ROM25-90063,MSC,Addis Ababa Kality,Djibouti,Trieste (Italy),Yirgacheffe G2 Natural,19207.68,19207.68,2025-03-27,2025-04-01
+ROM25-72920,MSC,Addis Ababa Kality,Djibouti,Jeddah (KSA),Limu G2,19207.1,19280.313166368076,2025-03-28,2025-04-02
+ROM25-95315,MSC,Addis Ababa Kality,Djibouti,Trieste (Italy),Sidama G1 Washed,19207.98,19207.98,2025-03-29,2025-04-03
+ROM25-83475,MSC,Mojo Dry Port,Djibouti,Antwerp (Belgium),Yirgacheffe G2 Natural,19210.37,19210.37,2025-03-30,2025-04-04
+ROM25-11550,MSC,Modjo Hub,Djibouti,Jeddah (KSA),Yirgacheffe G2 Natural,19206.62,19206.62,2025-03-30,2025-04-04
+ROM25-97485,MSC,Mojo Dry Port,Djibouti,Hamburg (Germany),Yirgacheffe G2 Natural,19213.93,19213.93,2025-03-31,2025-04-05
